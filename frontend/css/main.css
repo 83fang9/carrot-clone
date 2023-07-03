@@ -63,4 +63,5 @@ main {
 
 .chat-btn {
   display: flex;
+  text-decoration: none; /* 하이퍼링크 밑줄 없애쥼 */
 }
